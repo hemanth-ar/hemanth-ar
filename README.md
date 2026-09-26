@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student!<br>I'm currently learning<br>
+Data Analyst intern at Bees Technologies<br>I'm currently learning!<br>
 
 
 # 💻 Tech Stack:
